@@ -1,0 +1,20 @@
+{
+  "name": "MAZUMS Medical Graduation ۱۴۰۵",
+  "short_name": "MAZUMS ۱۴۰۵",
+  "description": "آیین دانش آموختگی پزشکی ورودی بهمن ۱۳۹۸",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#040608",
+  "theme_color": "#050708",
+  "icons": [
+    {
+      "src": "assets/mazums-logo-official-gold.svg?v=20260914-cinema-v4-turboboot",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./",
+  "lang": "fa",
+  "dir": "rtl"
+}
